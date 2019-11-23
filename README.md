@@ -1,6 +1,6 @@
 # Memory (Stanford University)
 
-First assignment "Concentration" for Stanford's ### Developing iOS 11 Apps With Swift (CS193P, Fall 17/18).
+First assignment "Concentration" for Stanford's "Developing iOS 11 Apps With Swift" (CS193P, Fall 17/18).
 
 ## Build With
 
